@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Retold</title>
-    <link>https://azure562.github.io/blog/</link>
-    <description>Recent content in Blogs on Retold</description>
+    <title>Workflow on Retold</title>
+    <link>https://azure562.github.io/tags/workflow/</link>
+    <description>Recent content in Workflow on Retold</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 25 Sep 2021 19:35:32 +0200</lastBuildDate><atom:link href="https://azure562.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Sep 2021 19:35:32 +0200</lastBuildDate><atom:link href="https://azure562.github.io/tags/workflow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automate Your Hugo Website Deployment to GitHub Page</title>
       <link>https://azure562.github.io/blog/set-up-gh-page/</link>
@@ -19,20 +19,6 @@ There are lots of helpful articles avialbe online, a proof that many people have
 Below is a summary of my approach:
   Set up a repository for the source content.
   Set up another repository for the GitHub page, which will host your generated website.</description>
-    </item>
-    
-    <item>
-      <title>Reference Information</title>
-      <link>https://azure562.github.io/blog/reference-info/</link>
-      <pubDate>Sat, 18 Sep 2021 20:01:11 +0200</pubDate>
-      
-      <guid>https://azure562.github.io/blog/reference-info/</guid>
-      <description>I put some links here which I find useful, hopefully you also find so.
-Style   The Chicago Manual of Style
-  Microsoft Writing Style Guide
-  Writing Course  Google Technical Writing Course  Blog   I&amp;rsquo;d rather be writing
-  Technical Writer
-  Content Marketing  Content Marketing Institute  </description>
     </item>
     
   </channel>
