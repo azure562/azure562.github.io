@@ -9,6 +9,19 @@
     <copyright>© {year}</copyright>
     <lastBuildDate>Fri, 17 Sep 2021 21:06:42 +0200</lastBuildDate><atom:link href="https://azure562.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Lean Writer</title>
+      <link>https://azure562.github.io/blog/lean-writer/</link>
+      <pubDate>Fri, 08 Oct 2021 19:58:41 +0200</pubDate>
+      
+      <guid>https://azure562.github.io/blog/lean-writer/</guid>
+      <description>How does a tech writer create value in the customer-centric era?
+Photo by Jessica Lynn Lewis on Pexels
+Still optimizing for editorial skill? Though the job title of Tech Writer is nothing new, the scope of a tech writer’s work is never clear-cut.
+Traditionally, tech writers are responsible for:
+ editing the drafts provided by developers applying some editorial styles publishing the final user documentation  Such a perspective puts tech writers at the downstream of product development and leads to the practice of allocating one tech writer to multiple projects (often across different products).</description>
+    </item>
+    
+    <item>
       <title>Google Analytics for Tech Docs</title>
       <link>https://azure562.github.io/blog/ga-for-doc/</link>
       <pubDate>Fri, 01 Oct 2021 19:24:22 +0200</pubDate>
@@ -57,7 +70,7 @@ Style   The Chicago Manual of Style
   Microsoft Writing Style Guide
   Writing Course  Google Technical Writing Course  Blog   I&amp;rsquo;d rather be writing
   Technical Writer
-  Content Marketing  Content Marketing Institute  </description>
+  Content Marketing  Content Marketing Institute  Content Management/Stategy  The Content Wrangler  </description>
     </item>
     
   </channel>
