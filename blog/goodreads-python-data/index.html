@@ -69,7 +69,7 @@ import pandas as pd
 
 books = pd.read_csv(&quot;goodreads_library_export.csv&quot;)
 </code></pre>
-<p>Some columns/features are not very intereting, let&rsquo;s remove them.</p>
+<p>Some columns/features are not very interesting, let&rsquo;s remove them.</p>
 <pre><code class=language-python>books.drop(columns=[&quot;Book Id&quot;, &quot;Author l-f&quot;, &quot;Additional Authors&quot;, &quot;ISBN&quot;, &quot;ISBN13&quot;, &quot;Bookshelves&quot;, &quot;Bookshelves with positions&quot;, &quot;Read Count&quot;, &quot;Private Notes&quot;, &quot;My Review&quot;, &quot;Spoiler&quot;, &quot;Recommended For&quot;, &quot;Recommended By&quot;, &quot;Owned Copies&quot;, &quot;Original Purchase Location&quot;, &quot;Original Purchase Date&quot;, &quot;Condition&quot;, &quot;Condition Description&quot;, &quot;BCID&quot;], inplace=True)
 </code></pre>
 <h2 id=get-back-the-most-read-authors>Get back the most read authors<a class=anchor href=#get-back-the-most-read-authors>#</a></h2>
